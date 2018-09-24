@@ -1,0 +1,4 @@
+name: Drupal Up Javascript example
+description: Showing how to pass variable from a module to js function.
+type: module
+core: 8.x
